@@ -12,4 +12,4 @@ Tiny altimeter based on BMP280 pressure sensor. Need Adafruit library
 ![Altimeter](https://github.com/JuriShalkin/TTGO-T-Block-Examples/blob/main/img/1616691796842.jpg)
 ## Snowglobe
 https://www.hackster.io/hague/m5stack-christmas-snow-globe-0b1abd
-![Snowglobe]()
+![Snowglobe](https://github.com/JuriShalkin/TTGO-T-Block-Examples/blob/main/img/1616691796849.jpg)
