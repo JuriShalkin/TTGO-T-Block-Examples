@@ -1,6 +1,6 @@
 # TTGO-T-Block-Examples
 ## Altimeter
-Tiny altimeter based on BMP280 pressure sensor. Need Adafruit library
+Tiny altimeter based on BMP280 pressure sensor. Need (Adafruit BMP280 library) [https://github.com/adafruit/Adafruit_BMP280_Library]
 ![Altimeter](https://github.com/JuriShalkin/TTGO-T-Block-Examples/blob/main/img/1616695447886.jpg)
 ## Analog gauge meter ring
 An example showing 'ring' analogue meters on a 1.3" round IPS 240x240 GC9A01 colour screen
