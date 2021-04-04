@@ -12,6 +12,6 @@ Adaptation of [this project for M5stask](https://www.hackster.io/hague/m5stack-c
 Based on [TTGO_Twatch_library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library).
 ![Snowglobe](https://github.com/JuriShalkin/TTGO-T-Block-Examples/blob/main/img/1616691796849.jpg)
 ## Wheel of Fortune
-Based [TFT-eSPI library](https://github.com/Bodmer/TFT_eSPI).
+Based on [TFT-eSPI library](https://github.com/Bodmer/TFT_eSPI).
 ![WheelOfFortune](https://github.com/JuriShalkin/TTGO-T-Block-Examples/blob/main/img/1616695447878.jpg)
 
